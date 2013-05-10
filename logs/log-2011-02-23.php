@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2011-02-23 13:43:11 --> Severity: Notice  --> Undefined index:  PHP_AUTH_USER /Library/WebServer/Documents/dev/aroberts/FormLizard/application/controllers/api/0.5/api.php 125
+ERROR - 2011-02-23 13:56:51 --> Severity: Notice  --> Undefined index:  PHP_AUTH_USER /Library/WebServer/Documents/dev/aroberts/FormLizard/application/controllers/api/0.5/api.php 125
+ERROR - 2011-02-23 14:59:08 --> Severity: Notice  --> Undefined index:  clientDomain /Library/WebServer/Documents/dev/aroberts/FormLizard/application/models/account.php 401
+ERROR - 2011-02-23 14:59:14 --> Severity: Warning  --> dl() [<a href='function.dl'>function.dl</a>]: Unable to load dynamic library '/usr/local/php5/lib/php/extensions/no-debug-non-zts-20060613/gmp.so' - (null) /Library/WebServer/Documents/dev/aroberts/FormLizard/application/libraries/Auth/OpenID/BigMath.php 411
+ERROR - 2011-02-23 14:59:14 --> Severity: Warning  --> dl() [<a href='function.dl'>function.dl</a>]: Unable to load dynamic library '/usr/local/php5/lib/php/extensions/no-debug-non-zts-20060613/php_gmp.so' - (null) /Library/WebServer/Documents/dev/aroberts/FormLizard/application/libraries/Auth/OpenID/BigMath.php 411
+ERROR - 2011-02-23 14:59:52 --> Severity: Warning  --> dl() [<a href='function.dl'>function.dl</a>]: Unable to load dynamic library '/usr/local/php5/lib/php/extensions/no-debug-non-zts-20060613/gmp.so' - (null) /Library/WebServer/Documents/dev/aroberts/FormLizard/application/libraries/Auth/OpenID/BigMath.php 411
+ERROR - 2011-02-23 14:59:52 --> Severity: Warning  --> dl() [<a href='function.dl'>function.dl</a>]: Unable to load dynamic library '/usr/local/php5/lib/php/extensions/no-debug-non-zts-20060613/php_gmp.so' - (null) /Library/WebServer/Documents/dev/aroberts/FormLizard/application/libraries/Auth/OpenID/BigMath.php 411
+ERROR - 2011-02-23 16:12:41 --> Severity: Notice  --> Undefined index:  clientDomain /Library/WebServer/Documents/dev/aroberts/FormLizard/application/models/account.php 401
+ERROR - 2011-02-23 16:19:26 --> Severity: Notice  --> Undefined index:  clientDomain /Library/WebServer/Documents/dev/aroberts/FormLizard/application/models/account.php 401
+ERROR - 2011-02-23 16:19:26 --> Severity: Warning  --> session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session /Library/WebServer/Documents/dev/aroberts/FormLizard/application/controllers/accountController.php 591
+ERROR - 2011-02-23 18:00:12 --> Severity: Notice  --> Undefined index:  port /Library/WebServer/Documents/dev/aroberts/FormLizard/application/libraries/Export/OAuth.php 383
+ERROR - 2011-02-23 18:00:12 --> Severity: Notice  --> Undefined index:  port /Library/WebServer/Documents/dev/aroberts/FormLizard/application/libraries/Export/OAuth.php 383
